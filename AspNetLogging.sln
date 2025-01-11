@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetLogging.ILogger", "AspNetLogging.Web\AspNetLogging.ILogger.csproj", "{5A6A248C-1AAA-4B46-949C-5719FB31037B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogLogger", "NLog\NLogLogger.csproj", "{B634ED07-B470-465C-9B39-EFAAED686B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6A248C-1AAA-4B46-949C-5719FB31037B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6A248C-1AAA-4B46-949C-5719FB31037B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6A248C-1AAA-4B46-949C-5719FB31037B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6A248C-1AAA-4B46-949C-5719FB31037B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B634ED07-B470-465C-9B39-EFAAED686B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B634ED07-B470-465C-9B39-EFAAED686B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B634ED07-B470-465C-9B39-EFAAED686B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B634ED07-B470-465C-9B39-EFAAED686B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE01BA48-9D3A-49FE-82C5-9D3FFEE3AE57}
+	EndGlobalSection
+EndGlobal
