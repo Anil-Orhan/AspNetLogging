@@ -9,7 +9,7 @@
 
 
 Bu projede, **NLog** kütüphanesi loglama işlemleri için kullanılmaktadır.  
-NLog, yüksek performanslı ve esnek bir loglama platformudur. Daha fazla bilgi ve dokümantasyon için aşağıdaki bağlantıyı ziyaret edebilirsiniz:
+NLog, yüksek performanslı ve esnek bir loglama kütüphanesidir. Daha fazla bilgi ve dokümantasyon için aşağıdaki bağlantıyı ziyaret edebilirsiniz:
 
 [NLog Resmi GitHub Reposu](https://github.com/NLog/NLog)
 
@@ -17,6 +17,6 @@ NLog, yüksek performanslı ve esnek bir loglama platformudur. Daha fazla bilgi 
 
 
 This project uses the **NLog** library for logging operations.  
-NLog is a high-performance and flexible logging platform. For more information and documentation, you can visit the following link:
+NLog is a high-performance and flexible logging library. For more information and documentation, you can visit the following link:
 
 [Official NLog GitHub Repository](https://github.com/NLog/NLog)
